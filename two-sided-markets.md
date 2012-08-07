@@ -10,7 +10,7 @@ I'm reading through the harvard business review article about two sided markets,
 7. Shopping malls
 
 
-## PC Operating Systems
+## 1. PC Operating Systems
 The computer is a classic example of an industry where you need killer apps in order to get people to want to use the platform. A computer is only as good as it's apps. People only understood vaguely what it did at the time.
 
 > The price made the Apple II affordable for businesspeople, well-off families, and schools. It was in the education sector that its influence lasted longest—although it certainly made its mark on business as the first platform to run VisiCalc, the first consumer spreadsheet program. It was the programs that really hooked people, and the Apple II had a great roster of educational and entertainment software. By attracting developers, a snowball effect occurred, and a new generation of developers became attracted and then obsessed.
